@@ -1,0 +1,113 @@
+/*Presentación*/
+#perfil{
+    /*Modelo de caja (espaciados)*/
+    margin: 0px 20px;
+}
+
+#perfil img{
+    /* Foto de perfil en la primera sección */
+    border-radius: 50%;
+    width: 250px;
+   
+}
+
+/*TIPOS DE LETRAS*/
+#perfil h1{
+    /*Letra del nombre en la presentación*/
+
+    font-family: 'Playfair Display', serif;
+    justify-content: center;
+    }    
+
+#perfil h3{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+#texto-perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#languages{
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-secondary{
+    background-color:#0d6efd !important;
+}
+
+/*PRIMERA SECCIÓN*/
+
+#algoritmos a:link{
+    text-decoration: none;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+    
+}
+
+/*Comportamiento cuando el mouse esté encima*/
+#algoritmos a:hover{
+    text-decoration:underline;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+}
+
+/*Comportamiento del link cuando fue visitado*/
+#algoritmos a:visited{
+    text-decoration: none;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+}
+
+#custom-cards a:link{
+    text-decoration: none;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+}
+
+/*Comportamiento cuando el mouse esté encima*/
+#custom-cards a:hover{
+    text-decoration:underline;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+}
+
+/*Comportamiento del link cuando fue visitado*/
+#custom-cards a:visited{
+    text-decoration: none;
+    color: #edf5fc;
+    text-shadow: 2px 2px #0e0d0d;
+}
+
+/*CERTIFICACIONES*/
+
+#certificaciones {
+    color:#edf5fc;
+    text-shadow: 2px 2px black;
+}
+
+#certificaciones span{
+    background-color: rgb(4, 5, 44);
+    background-blend-mode:hard-light;
+}
+
+#certificaciones h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    text-shadow: none;
+}
+
+
+/*CONTACTO*/
+#contactos h1{
+    cursor:pointer;
+}
+
+.btn-primary{
+    background-color:#6794d8 !important;
+}
+
