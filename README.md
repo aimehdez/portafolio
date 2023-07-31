@@ -13,8 +13,10 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 ****
 
 # Demo
-<img src="portafolio/imagenes/portafolio-ss.png" alt="portafolio"></img>
-Puedes entrar a ver el demo en este vínculo: [Haz clic aquí](https://64c6f7e571ccc64b9969959c--inspiring-kataifi-f356c8.netlify.app/)
+<img width="1000" src="portafolio/imagenes/portafolio-ss.png" alt="portafolio"></img>
+
+Puedes entrar a ver el demo en este vínculo: 
+[Haz clic aquí](https://64c6f7e571ccc64b9969959c--inspiring-kataifi-f356c8.netlify.app/)
 
 ## Tecnologías
 
