@@ -32,5 +32,4 @@ El texto de la página web está escrito en español, sin embargo, las clases re
 
 ## Contacto
 
-Desarrollador por: en Tecnolochicas Pro Summer Camp.
-[Aime Hernández](https://www.linkedin.com/in/aime-hern%C3%A1ndez-g-b00450285/)
+Desarrollador por: [Aime Hernández](https://www.linkedin.com/in/aime-hern%C3%A1ndez-g-b00450285/) en Tecnolochicas Pro Summer Campboot 2023.
