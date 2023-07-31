@@ -1,6 +1,6 @@
 # Portafolio Responsivo con Bootstrap 5
 
-El presente proyecto es creado para el Bootcamp de **Tecnolochicas Pro Summer Camp**.
+El presente proyecto es creado para el Bootcamp de **Tecnolochicas Pro Summer Campboot 2023**.
 
 Es una página web responsiva *(adaptable a diversos tamaños de pantalla)*.
 
